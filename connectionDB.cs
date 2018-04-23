@@ -11,7 +11,7 @@ namespace NW_Pos
     {
         public static SqlConnection constring() {
 
-            SqlConnection conn = new SqlConnection(@"Data Source=(local)\sqlexpress; Initial Catalog=cctv; User Id=sa; Password=Kalana@077#;");
+            SqlConnection conn = new SqlConnection(@"Data Source=(local)\sqlexpress; Initial Catalog=cctv; User Id=sa; Password=;");
             return conn;
         }
     }
