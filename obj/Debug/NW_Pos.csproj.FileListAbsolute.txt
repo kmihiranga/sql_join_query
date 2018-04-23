@@ -1,0 +1,52 @@
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\bin\Debug\NW_Pos.exe.config
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\bin\Debug\NW_Pos.exe
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\bin\Debug\NW_Pos.pdb
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.csprojResolveAssemblyReference.cache
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.frmMain.resources
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.Properties.Resources.resources
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.csproj.GenerateResource.Cache
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.exe
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.pdb
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.frmLogin.resources
+c:\users\mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.frmSalesOrder.resources
+C:\Users\Mihiranga\documents\visual studio 2013\Projects\NW_Pos\NW_Pos\obj\Debug\NW_Pos.frmCustomerReport.resources
+C:\Users\Mihiranga\Desktop\shared\NW_Pos\NW_Pos\bin\Debug\NW_Pos.exe.config
+C:\Users\Mihiranga\Desktop\shared\NW_Pos\NW_Pos\obj\Debug\NW_Pos.exe
+C:\Users\Mihiranga\Desktop\shared\NW_Pos\NW_Pos\obj\Debug\NW_Pos.pdb
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\bin\Debug\NW_Pos.exe.config
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.exe
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.pdb
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\bin\Debug\NW_Pos.exe
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\bin\Debug\NW_Pos.pdb
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.csprojResolveAssemblyReference.cache
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmCustomerReport.resources
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmJobReminder.resources
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmLogin.resources
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmMain.resources
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmSalesOrder.resources
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.Properties.Resources.resources
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.csproj.GenerateResource.Cache
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmClientDetails.resources
+C:\Users\Mihiranga\Desktop\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmNetworkDetails.resources
+D:\projects\cctv_project\NW_Pos\bin\Debug\NW_Pos.exe.config
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.exe
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.pdb
+D:\projects\cctv_project\NW_Pos\bin\Debug\NW_Pos.exe
+D:\projects\cctv_project\NW_Pos\bin\Debug\NW_Pos.pdb
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.csprojResolveAssemblyReference.cache
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmClientDetails.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmCustomerReport.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmJobReminder.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmLogin.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmMain.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmSalesOrder.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.Properties.Resources.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.csproj.GenerateResource.Cache
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmSummeryTable.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmSummeryView.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmSendMails.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmReport.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmNotification.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.Network.resources
+D:\projects\cctv_project\NW_Pos\obj\Debug\NW_Pos.frmRegister.resources
